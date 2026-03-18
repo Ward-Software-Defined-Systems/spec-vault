@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="spec-vault" width="680">
+</p>
+
 # spec-vault
 
 A Claude Code plugin that fetches transient spec and design documents from a private GitHub repo during implementation — no local file clutter, no `.gitignore` juggling.
