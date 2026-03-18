@@ -1,0 +1,21 @@
+# Secrets
+.env
+.env.*
+
+# macOS
+.DS_Store
+._*
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node (npx may create temp files)
+node_modules/
+npm-debug.log*
+
+# Claude Code local config (user-specific, not plugin config)
+.claude/

@@ -1,0 +1,11 @@
+{
+  "name": "spec-vault",
+  "description": "Fetch transient spec and design documents from a private GitHub repo during implementation — no local file clutter, no .gitignore juggling. Built for research-then-implement workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ward Software Defined Systems LLC"
+  },
+  "homepage": "https://github.com/ward-software-defined-systems/spec-vault",
+  "repository": "https://github.com/ward-software-defined-systems/spec-vault",
+  "license": "MIT"
+}

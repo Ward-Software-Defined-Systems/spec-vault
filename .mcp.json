@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "spec-vault-github": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${SPEC_VAULT_GITHUB_TOKEN}",
+        "GITHUB_READ_ONLY": "1",
+        "GITHUB_TOOLSETS": "repos"
+      }
+    }
+  }
+}

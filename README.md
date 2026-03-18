@@ -59,7 +59,7 @@ Add these to your shell profile (`~/.zshrc`, `~/.bashrc`, etc.) for persistence.
 
 ### 4. Install the Plugin
 
-**From the marketplace:**
+**(COMING SOON) From the marketplace:**
 ```
 /plugin install spec-vault@claude-plugin-directory
 ```
