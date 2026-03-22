@@ -1,0 +1,23 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "spec-vault",
+  "description": "Claude Code plugin for fetching transient spec and design documents from a private GitHub repo during implementation",
+  "owner": {
+    "name": "Ward Software Defined Systems LLC",
+    "email": "info@wsds.io"
+  },
+  "plugins": [
+    {
+      "name": "spec-vault",
+      "version": "1.0.0",
+      "description": "Fetch transient spec and design documents from a private GitHub repo during implementation — no local file clutter, no .gitignore juggling. Built for research-then-implement workflows where design documents are produced in one phase and consumed in another.",
+      "author": {
+        "name": "Ward Software Defined Systems LLC",
+        "email": "info@wsds.io"
+      },
+      "source": ".",
+      "category": "productivity",
+      "homepage": "https://github.com/Ward-Software-Defined-Systems/spec-vault"
+    }
+  ]
+}
